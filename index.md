@@ -2,7 +2,7 @@
 layout: marp
 category: top
 icon: https://raw.githubusercontent.com/yhatt/marp/master/images/marp.png
-screenShot: /images/marp-screenshot.png
+screenShot: https://yhatt.github.io/marp/images/marp-screenshot.png
 ---
 
 <div class="text-center">
