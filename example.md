@@ -11,7 +11,7 @@ Marp
 
 # Features
 
-- **Slides can write by Markdown.**
+- **Slides can be written with Markdown.**
 - Cross-platform. Supported Windows, Mac, and Linux
 - Live Preview with 3 modes
 - Slide themes (`default`, `gaia`)
